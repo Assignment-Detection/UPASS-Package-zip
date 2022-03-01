@@ -1,4 +1,5 @@
-# UPASS - Upload & Pliagarise Alert SyStem - Software & Instructions
+# UPASS - Upload & Pliagarise Alert SyStem 
+# Software & Instructions
 
 ## What is UPASS
 
