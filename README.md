@@ -44,23 +44,23 @@ If you wish to get an overview of the details of the assignments which have been
 
 
 ## Files & Directories
-•	The bin directory contains backend files and directories used by UPASS
+* The bin directory contains backend files and directories used by UPASS
 
-•	service-account-credentials is a directory where the Google Cloud Platform Service Account json file is to be put (refer to UPASS Setup Procedure.pdf for details)
+* service-account-credentials is a directory where the Google Cloud Platform Service Account json file is to be put (refer to UPASS Setup Procedure.pdf for details)
 
-•	UPASS Setup Procedure.pdf contains the instructions for setting up the UPASS assignment detail submission form and linking it with the UPASS backend
+* UPASS Setup Procedure.pdf contains the instructions for setting up the UPASS assignment detail submission form and linking it with the UPASS backend
 
-•	The details for the gmail account which UPASS will use to send notification emails are to be put in the gmail_username.txt and gmail_password.txt files
+* The details for the gmail account which UPASS will use to send notification emails are to be put in the gmail_username.txt and gmail_password.txt files
 
-•	The name of the google sheet linked with the UPASS assignment submission form is to be put in the google_sheet_name.txt file (refer to UPASS Setup Procedure.pdf for details)
+* The name of the google sheet linked with the UPASS assignment submission form is to be put in the google_sheet_name.txt file (refer to UPASS Setup Procedure.pdf for details)
 
-•	run_upass.exe is to be executed after UPASS has been setup, this file executes the checks of the UPASS system.
+* run_upass.exe is to be executed after UPASS has been setup, this file executes the checks of the UPASS system.
 
-•	Your serpstack api key is to be put into the serpstack_api_access_key.py file (refer to UPASS Setup Procedure.pdf for details)
+* Your serpstack api key is to be put into the serpstack_api_access_key.py file (refer to UPASS Setup Procedure.pdf for details)
 
-•	setup_upass.exe is to be executed once after completing the steps in UPASS Setup Procedure.pdf, this executable finalises the setup and confirms that UPASS has been set up correctly.
+* setup_upass.exe is to be executed once after completing the steps in UPASS Setup Procedure.pdf, this executable finalises the setup and confirms that UPASS has been set up correctly.
 
-•	upass_overview.exe can be executed to view the details of the assignments that are currently uploaded to UPASS (after it has been setup). It also tells the user the number of current assignments in UPASS and the total number of search terms for these assignments.  
+* upass_overview.exe can be executed to view the details of the assignments that are currently uploaded to UPASS (after it has been setup). It also tells the user the number of current assignments in UPASS and the total number of search terms for these assignments.  
 
 To view any of the code, please refer to this GitHub repository: 
 https://github.com/Assignment-Detection/UPASS-Upload-Plagiarise-Alert_SyStem
